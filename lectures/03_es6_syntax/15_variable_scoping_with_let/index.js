@@ -1,5 +1,5 @@
 // part 1:
-var a = 'hello'; -->
+var a = 'hello';
 let a = 'hello';
 console.log('a outside of scope =', a);
 
